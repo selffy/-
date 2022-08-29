@@ -1,0 +1,26 @@
+body {
+    background-image: 150%;
+    height: 100%;
+    width: 100%;
+}
+
+caption{
+    display: table-caption;
+    text-align: center;
+    font-size: 500px;
+}
+
+#container{
+}
+
+img {
+    height: 10%;
+    width: 10%;
+}
+
+input{
+    height: 100px;
+    width: 200px;
+    font-size: 50px;
+    font-weight: 400;
+}
